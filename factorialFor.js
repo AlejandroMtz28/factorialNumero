@@ -12,4 +12,6 @@ function factorial(numero) {
     return resultado;
 }
 
-console.log(factorial(5)); // 120
+console.log(factorial(5));
+console.log(factorial(7));
+console.log(factorial(6));

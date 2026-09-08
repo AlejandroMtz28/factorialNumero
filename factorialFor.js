@@ -14,3 +14,5 @@ function factorial(numero) {
 
 console.log(factorial(5));
 console.log(factorial(7));
+console.log(factorial(8));
+console.log(factorial(22));
